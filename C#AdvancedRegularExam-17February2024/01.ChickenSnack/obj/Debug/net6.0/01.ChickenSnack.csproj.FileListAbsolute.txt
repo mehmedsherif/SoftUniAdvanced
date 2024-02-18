@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\bin\Debug\net6.0\01.ChickenSnack.exe
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\bin\Debug\net6.0\01.ChickenSnack.deps.json
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\bin\Debug\net6.0\01.ChickenSnack.runtimeconfig.json
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\bin\Debug\net6.0\01.ChickenSnack.dll
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\bin\Debug\net6.0\01.ChickenSnack.pdb
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\obj\Debug\net6.0\01.ChickenSnack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\obj\Debug\net6.0\01.ChickenSnack.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\obj\Debug\net6.0\01.ChickenSnack.AssemblyInfo.cs
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\obj\Debug\net6.0\01.ChickenSnack.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\obj\Debug\net6.0\01.ChickenSnack.dll
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\obj\Debug\net6.0\refint\01.ChickenSnack.dll
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\obj\Debug\net6.0\01.ChickenSnack.pdb
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\obj\Debug\net6.0\01.ChickenSnack.genruntimeconfig.cache
+C:\Users\mehme\source\repos\C#AdvancedRegularExam-17February2024\ConsoleApp1\obj\Debug\net6.0\ref\01.ChickenSnack.dll

@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.exe
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.deps.json
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.runtimeconfig.json
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.dll
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\bin\Debug\net6.0\01.ListyIterator.pdb
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.AssemblyInfo.cs
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.dll
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\refint\01.ListyIterator.dll
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.pdb
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\01.ListyIterator.genruntimeconfig.cache
+C:\Users\mehme\source\repos\IteratorsAndComparators-Exercise\01.ListyIterator\obj\Debug\net6.0\ref\01.ListyIterator.dll

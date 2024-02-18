@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\bin\Debug\net6.0\3.SimpleCalculator.exe
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\bin\Debug\net6.0\3.SimpleCalculator.deps.json
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\bin\Debug\net6.0\3.SimpleCalculator.runtimeconfig.json
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\bin\Debug\net6.0\3.SimpleCalculator.dll
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\bin\Debug\net6.0\3.SimpleCalculator.pdb
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.AssemblyInfo.cs
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.dll
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\obj\Debug\net6.0\refint\3.SimpleCalculator.dll
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.pdb
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\obj\Debug\net6.0\3.SimpleCalculator.genruntimeconfig.cache
+C:\Users\mehme\source\repos\StacksAndQueues\SimpleCalculator\obj\Debug\net6.0\ref\3.SimpleCalculator.dll

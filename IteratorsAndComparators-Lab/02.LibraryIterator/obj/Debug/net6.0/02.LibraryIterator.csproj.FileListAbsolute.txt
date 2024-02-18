@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\bin\Debug\net6.0\02.LibraryIterator.exe
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\bin\Debug\net6.0\02.LibraryIterator.deps.json
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\bin\Debug\net6.0\02.LibraryIterator.runtimeconfig.json
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\bin\Debug\net6.0\02.LibraryIterator.dll
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\bin\Debug\net6.0\02.LibraryIterator.pdb
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\obj\Debug\net6.0\02.LibraryIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\obj\Debug\net6.0\02.LibraryIterator.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\obj\Debug\net6.0\02.LibraryIterator.AssemblyInfo.cs
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\obj\Debug\net6.0\02.LibraryIterator.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\obj\Debug\net6.0\02.LibraryIterator.dll
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\obj\Debug\net6.0\refint\02.LibraryIterator.dll
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\obj\Debug\net6.0\02.LibraryIterator.pdb
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\obj\Debug\net6.0\02.LibraryIterator.genruntimeconfig.cache
+C:\Users\mehme\source\repos\IteratorsAndComparators-Lab\02.LibraryIterator\obj\Debug\net6.0\ref\02.LibraryIterator.dll
