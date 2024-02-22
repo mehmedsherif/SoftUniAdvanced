@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.exe
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.deps.json
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.runtimeconfig.json
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.dll
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.pdb
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.dll
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\refint\01.SingleInheritance.dll
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.pdb
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Inheritance-Lab\01.SingleInheritance\obj\Debug\net6.0\ref\01.SingleInheritance.dll
